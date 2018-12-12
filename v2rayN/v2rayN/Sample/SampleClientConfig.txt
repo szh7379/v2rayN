@@ -14,7 +14,7 @@
       "ip": "127.0.0.1"
     },
 	"sniffing": {
-      "enabled": true,
+      "enabled": false,
       "destOverride": [
         "http",
         "tls"
